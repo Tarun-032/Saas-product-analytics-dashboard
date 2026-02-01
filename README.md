@@ -59,19 +59,5 @@ A SaaS company wants to:
 
 ---
 
-## 📂 Project Structure
-
-saas-product-analytics-dashboard/
-│
-├── SaaS_Product_Analytics_Dashboard.pbix
-├── README.md
-├── data/
-│   ├── ravenstack_accounts.csv
-│   ├── ravenstack_feature_usage.csv
-│   ├── ravenstack_subscriptions.csv
-│   └── ravenstack_support_tickets.csv
-└── images/
-    └── executive_overview.png
-
 
 
